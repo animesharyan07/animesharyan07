@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **animesh.ambastha07@gmail.com**
 
-- ⚡ Fun fact **I am fun loving**
+- ⚡ Fun fact **The first computer "bug" was an actual bug**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
