@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Animesh Aryan</h1>
 <h3 align="center">A passionate Backend and Data Enthusiast</h3>
 
-- 🔭 I’m currently working on **Machine Learning Project and some Backend Project**
+- 🔭Exploring the world of **Data Processing** & **Backend development.**
 
 - 📫 How to reach me **animesh.ambastha07@gmail.com**
 
