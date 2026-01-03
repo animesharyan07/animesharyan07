@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Animesh Aryan</h1>
-<h3 align="center">A passionate Backend and Data Enthusiast</h3>
+<h3 align="center">A passionate Data Engineering Enthusiast</h3>
 
 - 🔭Exploring the world of **Data Processing & Building Pipelines**
 
