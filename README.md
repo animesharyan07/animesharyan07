@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Animesh Aryan</h1>
 <h3 align="center">A passionate Backend and Data Enthusiast</h3>
 
-- 🔭Exploring the world of **Data Processing** & **Backend development.**
+- 🔭Exploring the world of **Data Processing & Building Pipelines**
 
 - 📫 How to reach me **animesh.ambastha07@gmail.com**
 
